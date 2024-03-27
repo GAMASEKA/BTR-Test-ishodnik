@@ -1,0 +1,1 @@
+<template> <div> <h1 v-show="showSecondPage">Second Page</h1> </div> </template> <script> export default { data() { return { showSecondPage: false } } } </script>
